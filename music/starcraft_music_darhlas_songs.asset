@@ -1,0 +1,527 @@
+music = {
+    name = "terran1"
+    file = "terran1.ogg"
+    volume = 0.62
+}
+
+music = {
+    name = "terran2"
+    file = "terran2.ogg"
+    volume = 0.62
+}
+
+music = {
+    name = "terran3"
+    file = "terran3.ogg"
+    volume = 0.62
+}
+
+music = {
+    name = "terran4"
+    file = "terran4.ogg"
+    volume = 0.62
+}
+
+music = {
+    name = "terran5"
+    file = "terran5.ogg"
+    volume = 0.62
+}
+
+music = {
+    name = "terran6"
+    file = "terran6.ogg"
+    volume = 0.62
+}
+
+music = {
+    name = "terran7"
+    file = "terran7.ogg"
+    volume = 0.62
+}
+
+music = {
+    name = "terran8"
+    file = "terran8.ogg"
+    volume = 0.62
+}
+
+music = {
+    name = "terran9"
+    file = "terran9.ogg"
+    volume = 0.62
+}
+
+music = {
+    name = "terran10"
+    file = "terran10.ogg"
+    volume = 0.62
+}
+
+music = {
+    name = "terran11"
+    file = "terran11.ogg"
+    volume = 0.62
+}
+
+music = {
+    name = "terran12"
+    file = "terran12.ogg"
+    volume = 0.62
+}
+
+music = {
+    name = "terran13"
+    file = "terran13.ogg"
+    volume = 0.62
+}
+
+music = {
+    name = "terran14"
+    file = "terran14.ogg"
+    volume = 0.62
+}
+
+music = {
+    name = "terran15"
+    file = "terran15.ogg"
+    volume = 0.62
+}
+
+music = {
+    name = "terran16"
+    file = "terran16.ogg"
+    volume = 0.62
+}
+
+music = {
+    name = "terran17"
+    file = "terran17.ogg"
+    volume = 0.62
+}
+
+music = {
+    name = "terran18"
+    file = "terran18.ogg"
+    volume = 0.62
+}
+
+music = {
+    name = "terran19"
+    file = "terran19.ogg"
+    volume = 0.62
+}
+
+music = {
+    name = "terran20"
+    file = "terran20.ogg"
+    volume = 0.62
+}
+
+music = {
+    name = "terran21"
+    file = "terran21.ogg"
+    volume = 0.62
+}
+
+music = {
+    name = "terran22"
+    file = "terran22.ogg"
+    volume = 0.62
+}
+
+music = {
+    name = "terran23"
+    file = "terran23.ogg"
+    volume = 0.62
+}
+
+music = {
+    name = "terran24"
+    file = "terran24.ogg"
+    volume = 0.62
+}
+
+music = {
+    name = "terran25"
+    file = "terran25.ogg"
+    volume = 0.62
+}
+
+music = {
+    name = "terran26"
+    file = "terran26.ogg"
+    volume = 0.62
+}
+
+music = {
+    name = "terran27"
+    file = "terran27.ogg"
+    volume = 0.62
+}
+
+music = {
+    name = "terran28"
+    file = "terran28.ogg"
+    volume = 0.62
+}
+
+music = {
+    name = "terran29"
+    file = "terran29.ogg"
+    volume = 0.62
+}
+
+music = {
+    name = "terran30"
+    file = "terran30.ogg"
+    volume = 0.62
+}
+
+music = {
+    name = "terran31"
+    file = "terran31.ogg"
+    volume = 0.62
+}
+
+music = {
+    name = "terran32"
+    file = "terran32.ogg"
+    volume = 0.62
+}
+
+music = {
+    name = "zerg1"
+    file = "zerg1.ogg"
+    volume = 0.62
+}
+
+music = {
+    name = "zerg2"
+    file = "zerg2.ogg"
+    volume = 0.62
+}
+
+music = {
+    name = "zerg3"
+    file = "zerg3.ogg"
+    volume = 0.62
+}
+
+music = {
+    name = "zerg4"
+    file = "zerg4.ogg"
+    volume = 0.62
+}
+
+music = {
+    name = "zerg5"
+    file = "zerg5.ogg"
+    volume = 0.62
+}
+
+music = {
+    name = "zerg6"
+    file = "zerg6.ogg"
+    volume = 0.62
+}
+
+music = {
+    name = "zerg7"
+    file = "zerg7.ogg"
+    volume = 0.62
+}
+
+music = {
+    name = "zerg8"
+    file = "zerg8.ogg"
+    volume = 0.62
+}
+
+music = {
+    name = "zerg9"
+    file = "zerg9.ogg"
+    volume = 0.62
+}
+
+music = {
+    name = "zerg10"
+    file = "zerg10.ogg"
+    volume = 0.62
+}
+
+music = {
+    name = "zerg11"
+    file = "zerg11.ogg"
+    volume = 0.62
+}
+
+music = {
+    name = "zerg12"
+    file = "zerg12.ogg"
+    volume = 0.62
+}
+
+music = {
+    name = "zerg13"
+    file = "zerg13.ogg"
+    volume = 0.62
+}
+
+music = {
+    name = "zerg14"
+    file = "zerg14.ogg"
+    volume = 0.62
+}
+
+music = {
+    name = "zerg15"
+    file = "zerg15.ogg"
+    volume = 0.62
+}
+
+music = {
+    name = "zerg16"
+    file = "zerg16.ogg"
+    volume = 0.62
+}
+
+music = {
+    name = "zerg17"
+    file = "zerg17.ogg"
+    volume = 0.62
+}
+
+music = {
+    name = "zerg18"
+    file = "zerg18.ogg"
+    volume = 0.62
+}
+
+music = {
+    name = "zerg19"
+    file = "zerg19.ogg"
+    volume = 0.62
+}
+
+music = {
+    name = "protoss1"
+    file = "protoss1.ogg"
+    volume = 0.62
+}
+
+music = {
+    name = "protoss2"
+    file = "protoss2.ogg"
+    volume = 0.62
+}
+
+music = {
+    name = "protoss3"
+    file = "protoss3.ogg"
+    volume = 0.62
+}
+
+music = {
+    name = "protoss4"
+    file = "protoss4.ogg"
+    volume = 0.62
+}
+
+music = {
+    name = "protoss5"
+    file = "protoss5.ogg"
+    volume = 0.62
+}
+
+music = {
+    name = "protoss6"
+    file = "protoss6.ogg"
+    volume = 0.62
+}
+
+music = {
+    name = "protoss7"
+    file = "protoss7.ogg"
+    volume = 0.62
+}
+
+music = {
+    name = "protoss8"
+    file = "protoss8.ogg"
+    volume = 0.62
+}
+
+music = {
+    name = "protoss9"
+    file = "protoss9.ogg"
+    volume = 0.62
+}
+
+music = {
+    name = "protoss10"
+    file = "protoss10.ogg"
+    volume = 0.62
+}
+
+music = {
+    name = "protoss11"
+    file = "protoss11.ogg"
+    volume = 0.62
+}
+
+music = {
+    name = "protoss12"
+    file = "protoss12.ogg"
+    volume = 0.62
+}
+
+music = {
+    name = "protoss13"
+    file = "protoss13.ogg"
+    volume = 0.62
+}
+
+music = {
+    name = "protoss14"
+    file = "protoss14.ogg"
+    volume = 0.62
+}
+
+music = {
+    name = "protoss15"
+    file = "protoss15.ogg"
+    volume = 0.62
+}
+
+music = {
+    name = "protoss16"
+    file = "protoss16.ogg"
+    volume = 0.62
+}
+
+music = {
+    name = "protoss17"
+    file = "protoss17.ogg"
+    volume = 0.62
+}
+
+music = {
+    name = "protoss18"
+    file = "protoss18.ogg"
+    volume = 0.62
+}
+
+music = {
+    name = "protoss19"
+    file = "protoss19.ogg"
+    volume = 0.62
+}
+
+music = {
+    name = "protoss20"
+    file = "protoss20.ogg"
+    volume = 0.62
+}
+
+music = {
+    name = "protoss21"
+    file = "protoss21.ogg"
+    volume = 0.62
+}
+
+music = {
+    name = "protoss22"
+    file = "protoss22.ogg"
+    volume = 0.62
+}
+
+music = {
+    name = "protoss23"
+    file = "protoss23.ogg"
+    volume = 0.62
+}
+
+music = {
+    name = "protoss24"
+    file = "protoss24.ogg"
+    volume = 0.62
+}
+
+music = {
+    name = "protoss25"
+    file = "protoss25.ogg"
+    volume = 0.62
+}
+
+music = {
+    name = "protoss26"
+    file = "protoss26.ogg"
+    volume = 0.62
+}
+
+music = {
+    name = "protoss27"
+    file = "protoss27.ogg"
+    volume = 0.62
+}
+
+music = {
+    name = "protoss28"
+    file = "protoss28.ogg"
+    volume = 0.62
+}
+
+music = {
+    name = "protoss29"
+    file = "protoss29.ogg"
+    volume = 0.62
+}
+
+music = {
+    name = "protoss30"
+    file = "protoss30.ogg"
+    volume = 0.62
+}
+
+music = {
+    name = "protoss31"
+    file = "protoss31.ogg"
+    volume = 0.62
+}
+
+music = {
+    name = "extra1"
+    file = "extra1.ogg"
+    volume = 0.62
+}
+
+music = {
+    name = "extra2"
+    file = "extra2.ogg"
+    volume = 0.62
+}
+
+music = {
+    name = "extra3"
+    file = "extra3.ogg"
+    volume = 0.62
+}
+
+music = {
+    name = "extra4"
+    file = "extra4.ogg"
+    volume = 0.62
+}
+
+music = {
+    name = "extra5"
+    file = "extra5.ogg"
+    volume = 0.62
+}
+
+music = {
+    name = "extra6"
+    file = "extra6.ogg"
+    volume = 0.62
+}

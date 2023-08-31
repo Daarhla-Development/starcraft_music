@@ -1,0 +1,351 @@
+song = {
+	name = "terran1"
+}
+
+song = {
+	name = "terran2"
+}
+
+song = {
+	name = "terran3"
+}
+
+song = {
+	name = "terran4"
+}
+
+song = {
+	name = "terran5"
+}
+
+song = {
+	name = "terran6"
+}
+
+song = {
+	name = "terran7"
+}
+
+song = {
+	name = "terran8"
+}
+
+song = {
+	name = "terran9"
+}
+
+song = {
+	name = "terran10"
+}
+
+song = {
+	name = "terran11"
+}
+
+song = {
+	name = "terran12"
+}
+
+song = {
+	name = "terran13"
+}
+
+song = {
+	name = "terran14"
+}
+
+song = {
+	name = "terran15"
+}
+
+song = {
+	name = "terran16"
+}
+
+song = {
+	name = "terran17"
+}
+
+song = {
+	name = "terran18"
+}
+
+song = {
+	name = "terran19"
+}
+
+song = {
+	name = "terran20"
+}
+
+song = {
+	name = "terran21"
+}
+
+song = {
+	name = "terran22"
+}
+
+song = {
+	name = "terran23"
+}
+
+song = {
+	name = "terran24"
+}
+
+song = {
+	name = "terran25"
+}
+
+song = {
+	name = "terran26"
+}
+
+song = {
+	name = "terran27"
+}
+
+song = {
+	name = "terran28"
+}
+
+song = {
+	name = "terran29"
+}
+
+song = {
+	name = "terran30"
+}
+
+song = {
+	name = "terran31"
+}
+
+song = {
+	name = "terran32"
+}
+
+song = {
+	name = "zerg1"
+}
+
+song = {
+	name = "zerg2"
+}
+
+song = {
+	name = "zerg3"
+}
+
+song = {
+	name = "zerg4"
+}
+
+song = {
+	name = "zerg5"
+}
+
+song = {
+	name = "zerg6"
+}
+
+song = {
+	name = "zerg7"
+}
+
+song = {
+	name = "zerg8"
+}
+
+song = {
+	name = "zerg9"
+}
+
+song = {
+	name = "zerg10"
+}
+
+song = {
+	name = "zerg11"
+}
+
+song = {
+	name = "zerg12"
+}
+
+song = {
+	name = "zerg13"
+}
+
+song = {
+	name = "zerg14"
+}
+
+song = {
+	name = "zerg15"
+}
+
+song = {
+	name = "zerg16"
+}
+
+song = {
+	name = "zerg17"
+}
+
+song = {
+	name = "zerg18"
+}
+
+song = {
+	name = "zerg19"
+}
+
+song = {
+	name = "protoss1"
+}
+
+song = {
+	name = "protoss2"
+}
+
+song = {
+	name = "protoss3"
+}
+
+song = {
+	name = "protoss4"
+}
+
+song = {
+	name = "protoss5"
+}
+
+song = {
+	name = "protoss6"
+}
+
+song = {
+	name = "protoss7"
+}
+
+song = {
+	name = "protoss8"
+}
+
+song = {
+	name = "protoss9"
+}
+
+song = {
+	name = "protoss10"
+}
+
+song = {
+	name = "protoss11"
+}
+
+song = {
+	name = "protoss12"
+}
+
+song = {
+	name = "protoss13"
+}
+
+song = {
+	name = "protoss14"
+}
+
+song = {
+	name = "protoss15"
+}
+
+song = {
+	name = "protoss16"
+}
+
+song = {
+	name = "protoss17"
+}
+
+song = {
+	name = "protoss18"
+}
+
+song = {
+	name = "protoss19"
+}
+
+song = {
+	name = "protoss20"
+}
+
+song = {
+	name = "protoss21"
+}
+
+song = {
+	name = "protoss22"
+}
+
+song = {
+	name = "protoss23"
+}
+
+song = {
+	name = "protoss24"
+}
+
+song = {
+	name = "protoss25"
+}
+
+song = {
+	name = "protoss26"
+}
+
+song = {
+	name = "protoss27"
+}
+
+song = {
+	name = "protoss28"
+}
+
+song = {
+	name = "protoss29"
+}
+
+song = {
+	name = "protoss30"
+}
+
+song = {
+	name = "protoss31"
+}
+
+song = {
+	name = "extra1"
+}
+
+song = {
+	name = "extra2"
+}
+
+song = {
+	name = "extra3"
+}
+
+song = {
+	name = "extra4"
+}
+
+song = {
+	name = "extra5"
+}
+
+song = {
+	name = "extra6"
+}
